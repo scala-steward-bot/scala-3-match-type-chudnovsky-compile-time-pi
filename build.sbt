@@ -1,5 +1,5 @@
 val common = Def.settings(
-  scalaVersion := "3.8.0-RC6"
+  scalaVersion := "3.8.1-RC1"
 )
 
 common
